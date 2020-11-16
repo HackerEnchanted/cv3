@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background:#f1f6f9;
+    color:#14274e;
+    height: 100%;
+    line-height: 2;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar {
+    color:#14274e;
+}
+.bottom_cloud{
+    position: relative;
+    bottom:75%;
+    right:25%;
+
+}
+.jumbotron{
+    background: #f1f6f9;;
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+h1{
+    font-size: 8rem;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-size: 4rem;
+}
+.mountain{
+    position: relative ;
+    padding-bottom:0px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    margin-top: 50px;;
+}
+.top_cloud{
+    position: relative;
+    top:300px;
+    left:450px;;
+}
+
+
+/*font-family: 'Sacramento', cursive;
+font-family: 'Ubuntu', sans-serif;*/

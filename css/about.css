@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background:#f1f6f9;
+    color:#14274e;
+    height: 100%;
+    line-height: 2;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar {
+    color:#14274e;
+}
+.dp{
+    border-radius: 50%;
+    margin: 90px auto;
+    height: 450px;
+    width:450px;
+} 
+.jumbotron{
+    background: #f1f6f9;;
+}
